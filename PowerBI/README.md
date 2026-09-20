@@ -6,7 +6,7 @@ Desarrollar un dashboard interactivo para analizar el desempeño comercial de No
 
 ## Indicadores principales
 
-- 4,13 mil millones en ventas netas
+- 4,13 millones en ventas netas
 - 300,000 órdenes
 - 10,000 clientes
 - 500 productos
